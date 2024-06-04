@@ -1,1 +1,1 @@
-# TGbot
+# TGbot Chat GPT
